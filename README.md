@@ -84,19 +84,15 @@ In this project, a simple interface of the web page which contains functionaliti
 
 In this project, Site connectivity checker is a tool that can be used to monitor the connectivity of a website or web application from a remote location. The tool can help website administrators and IT professionals to identify connectivity issues, performance problems, or network disruptions that can affect the availability and user experience of a website.
 
-### 19. Word Dictionary
-
-In this project, a simple dictionary the user is asked to enter a word .
-
-### 20. Word Replacement Program
+### 19. Word Replacement Program
 
 In this project,A word replacement program is a software application that allows users to replace words or phrases in a text or meesage with other words or phrases. The program can be useful for a variety of purposes, such as editing academic papers, writing reports, or creating marketing copy.
 
-### 21. Random Password Generator
+### 20. Random Password Generator
 
 In this project, A random password generator made using Python is a powerful tool that can create strong and unique passwords for various applications. The program uses Python's built-in libraries and third-party packages to generate random strings of characters, digits, and symbols, and can be customized to meet specific security requirements. The random password generator can help users to enhance the security of their online accounts, protect sensitive data, and reduce the risk of identity theft or hacking attacks.
 
-#### Coffee Machine
+#### 21. Coffee Machine
 In this project, A coffee machine just like a real nade world is made by python. In this user have to enter the coffee name, then insert money .Then the program evalautes the money if it is enough or not then it gives coffee to the user and gives the change to the user. 
 
 ### Contributing
